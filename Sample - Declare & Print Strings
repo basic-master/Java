@@ -1,0 +1,28 @@
+//+++++++++++++++++++++++++++++++//
+//+++DECLARE AND PRINT STRINGS+++//
+//+++++++++++++++++++++++++++++++//
+
+//+++BY EMILE+++//
+
+
+import java.util.*;
+
+public class Main
+{
+public static void main(String[] args)
+{
+
+
+//+++Declare String+++//
+String sport="Soccer";
+
+//++++++++++++++++++++//
+
+//+++Print sport+++//
+System.out.println(sport);
+
+
+
+
+}
+}
